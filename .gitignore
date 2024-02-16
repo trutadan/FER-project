@@ -1,0 +1,23 @@
+# Ignore joblib files
+*.joblib
+
+# Ignore pkl files
+*.pkl
+
+# Ignore raw_dataset folders
+/raw_dataset_*/
+
+# Ignore dataset_ folders
+/dataset_*/
+
+# Ignore venv folder
+venv/
+
+# Ignore .idea folder
+.idea/
+
+# Ignore .pyc files
+*.pyc
+
+# Ignore contents of spiga folder
+spiga/*
