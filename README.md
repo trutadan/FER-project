@@ -63,6 +63,7 @@ To initiate training and evaluation for a specific classifier and variation, sel
 # Available datasets
 - Extended Cohn-Kanade (CK+) dataset
 - Karolinska Directed Emotional Faces (KDEF) dataset
+- Taiwanese Facial Expression Image Database (TFEID)
 
 # Results
 ![results_image](https://github.com/trutadan/FER-project/blob/master/results.png)

@@ -44,7 +44,8 @@ class Training:
                 'clf__activation': ['tanh', 'relu'],
                 'clf__solver': ['sgd', 'adam'],
                 'clf__alpha': [0.0001, 0.05],
-                'clf__learning_rate': ['constant', 'adaptive']
+                'clf__learning_rate': ['constant', 'adaptive'],
+                'clf__max_iter': [500, 1000, 1500, 2000, 3000]
             },
             'svm': {
                 'clf__C': [0.1, 1, 10, 100],
